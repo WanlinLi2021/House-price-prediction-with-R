@@ -1,5 +1,7 @@
 # House price prediction with R
 
+<img src="projet_housePrice.jpg" alt="isolated" width="500"/>
+
 This project covers the linear regression model. It allows us to assess the relationship between variables in a data set and a continuous response variable.
 
 The project consists of three parts: 
